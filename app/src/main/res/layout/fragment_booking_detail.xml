@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:orientation="vertical"
+    tools:context=".menu.MenuFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="15dp"
+        android:layout_weight="1"
+        android:padding="10dp"
+        android:background="@drawable/bg_topup"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_name_last"
+            style="@style/text_18sp_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ชื่อ-นามสกุล : " />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_building"
+            style="@style/text_18sp_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ตึก : " />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_roomNumber"
+            style="@style/text_18sp_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ห้อง : " />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_bedType"
+            style="@style/text_18sp_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ประเภทห้อง : " />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_checkInOut"
+            style="@style/text_18sp_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="วันที่เข้า-ออก : " />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_dateEdit"
+            style="@style/text_18sp_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="วันที่แก้ไขล่าสุด : " />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:minHeight="?attr/actionBarSize"
+        android:orientation="horizontal"
+        android:padding="15dp">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_back"
+            style="@style/text_18sp_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button"
+            android:maxLines="1"
+            android:text="ย้อนกลับ"
+            android:textAllCaps="false" />
+
+    </LinearLayout>
+
+</LinearLayout>

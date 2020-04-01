@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/conner_btn" />
+            <solid android:color="@color/borrow_bottom_pressed" />
+            <stroke android:color="@color/borrow_stroke" android:width="2dp"/>
+            <padding android:bottom="@dimen/padding_text_button_vertical" android:left="@dimen/padding_text_button_horizontal" android:right="@dimen/padding_text_button_horizontal" android:top="@dimen/padding_text_button_vertical" />
+        </shape>
+    </item>
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/conner_btn" />
+            <solid android:color="@color/dismiss" />
+            <stroke android:color="@color/borrow_stroke" android:width="2dp"/>
+            <padding android:bottom="@dimen/padding_text_button_vertical" android:left="@dimen/padding_text_button_horizontal" android:right="@dimen/padding_text_button_horizontal" android:top="@dimen/padding_text_button_vertical" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/conner_btn" />
+            <solid android:color="@color/borrow_bottom" />
+            <stroke android:color="@color/borrow_stroke" android:width="2dp"/>
+            <padding android:bottom="@dimen/padding_text_button_vertical" android:left="@dimen/padding_text_button_horizontal" android:right="@dimen/padding_text_button_horizontal" android:top="@dimen/padding_text_button_vertical" />
+        </shape>
+    </item>
+
+</selector>
+

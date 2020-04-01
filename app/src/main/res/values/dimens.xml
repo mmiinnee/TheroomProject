@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="radius_edit_text">5dp</dimen>
+    <dimen name="padding_edit_text_horizontal">8dp</dimen>
+    <dimen name="padding_edit_text_vertical">4dp</dimen>
+
+    <dimen name="conner_btn">6dp</dimen>
+    <dimen name="padding_text_button_vertical">4dp</dimen>
+    <dimen name="padding_text_button_horizontal">32dp</dimen>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#73716A</color>
+    <color name="colorPrimaryDark">#1F180F</color>
+    <color name="colorAccent">#929089</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dismiss">#E6E6E6</color>
+    <color name="gray">#A7A7A7</color>
+
+    <color name="borrow">#1F180F</color>
+    <color name="borrow_pressed">#35261E</color>
+    <color name="borrow_stroke">#515050</color>
+
+    <color name="borrow_bottom">#656565</color>
+    <color name="borrow_bottom_pressed">#747474</color>
+
+</resources>

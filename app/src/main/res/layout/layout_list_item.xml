@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.chauthai.swipereveallayout.SwipeRevealLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/swipelayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="3dp"
+    app:dragEdge="right"
+    app:mode="same_level">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/view_weight"
+            android:layout_width="4dp"
+            android:layout_height="0dp" />
+
+        <LinearLayout
+            android:id="@+id/ln_edit"
+            android:layout_width="105dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="4dp"
+            android:layout_marginEnd="5dp"
+            android:background="@drawable/bg_button_menu"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_pen"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ln_checkIn"
+            android:layout_width="105dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
+            android:background="@drawable/bg_button_menu"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_checkin"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ln_cancel_booking"
+            android:layout_width="105dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
+            android:background="@drawable/bg_button_menu"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_cancel"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ln_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_item_list"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_name_last"
+            style="@style/text_18sp_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ชื่อ-นามสกุล : " />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_building"
+            style="@style/text_18sp_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ตึก : " />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_roomNumber"
+            style="@style/text_18sp_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ห้อง : " />
+
+    </LinearLayout>
+
+</com.chauthai.swipereveallayout.SwipeRevealLayout>

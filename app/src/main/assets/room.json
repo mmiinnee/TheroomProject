@@ -1,0 +1,361 @@
+{
+  "data": [
+    {
+      "buildingNumber": "A",
+      "roomNumber": "1",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "2",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "3",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "4",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "5",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "6",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "7",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "8",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "9",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "10",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "11",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "12",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "13",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "14",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "15",
+      "peopleSize": null,
+      "bedType": "เตียงคู่",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "16",
+      "peopleSize": null,
+      "bedType": "เตียงคู่",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "17",
+      "peopleSize": null,
+      "bedType": "เตียงคู่",
+      "status": true
+    },
+    {
+      "buildingNumber": "A",
+      "roomNumber": "18",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "1",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "2",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "3",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "4",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "5",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "6",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "7",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "8",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "9",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "10",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "11",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "12",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "13",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "14",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "15",
+      "peopleSize": null,
+      "bedType": "เตียงคู่",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "16",
+      "peopleSize": null,
+      "bedType": "เตียงคู่",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "17",
+      "peopleSize": null,
+      "bedType": "เตียงคู่",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "18",
+      "peopleSize": null,
+      "bedType": "เตียงคู่",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "19",
+      "peopleSize": null,
+      "bedType": "เตียงคู่",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "20",
+      "peopleSize": null,
+      "bedType": "เตียงคู่",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "21",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "B",
+      "roomNumber": "22",
+      "peopleSize": null,
+      "bedType": "เตียงเดี่ยว",
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "A",
+      "peopleSize": "9",
+      "bedType": null,
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "B",
+      "peopleSize": "9",
+      "bedType": null,
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "C",
+      "peopleSize": "9",
+      "bedType": null,
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "D",
+      "peopleSize": "9",
+      "bedType": null,
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "E",
+      "peopleSize": "3",
+      "bedType": null,
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "F",
+      "peopleSize": "3",
+      "bedType": null,
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "G",
+      "peopleSize": "3",
+      "bedType": null,
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "H",
+      "peopleSize": "3",
+      "bedType": null,
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "X",
+      "peopleSize": "4",
+      "bedType": null,
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "Y",
+      "peopleSize": "4",
+      "bedType": null,
+      "status": true
+    },
+    {
+      "buildingNumber": "C",
+      "roomNumber": "Z",
+      "peopleSize": "4",
+      "bedType": null,
+      "status": true
+    }
+  ]
+}
